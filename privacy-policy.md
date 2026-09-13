@@ -13,9 +13,9 @@ permalink: /privacy-policy
 
 # Privacy Policy
 
-**Effective date:** [EFFECTIVE_DATE]
+**Effective date:** 2026-09-13
 
-InnerWeather ("the app") is provided by **Noronaru** ("we", "us"). Noronaru is the data controller for the personal data described in this policy. You can reach us at **[SUPPORT_EMAIL]**.
+InnerWeather ("the app") is provided by **Noronaru** ("we", "us"). Noronaru is the data controller for the personal data described in this policy. You can reach us at **noronaru@proton.me**.
 
 ## In short
 
@@ -80,7 +80,7 @@ Our server provider (Google) and AI provider (OpenAI) process data in the **Unit
 
 Depending on where you live — including under the Turkish Personal Data Protection Law (KVKK) and the EU General Data Protection Regulation (GDPR) — you may have the right to access, correct, or delete your personal data, to object to or restrict its processing, and to withdraw consent.
 
-Because your journal stays on your device, you control it directly: you can edit or delete entries in the app, or delete everything by uninstalling the app. Server records contain only an anonymous identifier, dates, counts, and reported insight text; uninstalling the app removes that identifier from your device. For any request or question, contact **[SUPPORT_EMAIL]**.
+Because your journal stays on your device, you control it directly: you can edit or delete entries in the app, or delete everything by uninstalling the app. Server records contain only an anonymous identifier, dates, counts, and reported insight text; uninstalling the app removes that identifier from your device. For any request or question, contact **noronaru@proton.me**.
 
 ## 10. Security
 
@@ -96,4 +96,4 @@ When we update this policy, we change the effective date above. If a change affe
 
 ## 13. Contact
 
-Noronaru — **[SUPPORT_EMAIL]**
+Noronaru — **noronaru@proton.me**
