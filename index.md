@@ -12,4 +12,4 @@ InnerWeather is a personal mood journal provided by Noronaru.
 
 If you are going through a difficult time, you can find free, confidential support in your country at [findahelpline.com](https://findahelpline.com).
 
-Contact: [SUPPORT_EMAIL]
+Contact: noronaru@proton.me
