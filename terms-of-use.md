@@ -6,14 +6,14 @@ permalink: /terms-of-use
 <!--
   DRAFT — have a lawyer review this before publishing. Consumer protection law in Türkiye
   and the EU limits which disclaimers and liability limits are enforceable.
-  Replace before publishing: [SUPPORT_EMAIL], [EFFECTIVE_DATE], [GOVERNING_LAW].
+  Replace before publishing: [SUPPORT_EMAIL], [EFFECTIVE_DATE].
   Keep this document in sync with TERMS_VERSION in src/js/store.js — bump the version when
   a change here requires people to accept again.
 -->
 
 # Terms of Use
 
-**Effective date:** [EFFECTIVE_DATE]
+**Effective date:** 2026-09-13
 
 These Terms of Use ("Terms") govern your use of the InnerWeather app ("the app"), provided by **Noronaru** ("we", "us"). You accept these Terms inside the app before using it. If you do not agree, please do not use the app.
 
@@ -82,9 +82,7 @@ You can stop using InnerWeather at any time by uninstalling it. We may suspend o
 
 ## 12. Governing law
 
-These Terms are governed by [GOVERNING_LAW], without prejudice to mandatory consumer protection laws of the country where you live.
-
-<!-- Lawyer review: choose governing law and competent courts (likely Türkiye). -->
+These Terms are governed by the laws of the Republic of Türkiye. This does not take away any protection you have under the mandatory consumer protection laws of the country where you live. If you are a consumer, you may bring a dispute before the consumer arbitration committees or courts that have jurisdiction under applicable law, including those where you live.
 
 ## 13. Changes to these Terms
 
@@ -92,4 +90,4 @@ When we update these Terms, we change the effective date above. If a change is s
 
 ## 14. Contact
 
-Noronaru — **[SUPPORT_EMAIL]**
+Noronaru — **noronaru@proton.me**
