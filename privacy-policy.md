@@ -4,8 +4,9 @@ permalink: /privacy-policy
 ---
 
 <!--
-  Approved by the owners for publishing on 2026-10-27, with TERMS_VERSION 2026-10-27 in
-  src/js/store.js: people accept this policy in the terms gate, whose points must say the same.
+  Approved by the owners for publishing on 2026-10-27, and updated on 2026-10-28 for Plus on
+  sale (no Plus day, no ad before a report), with TERMS_VERSION 2026-10-28 in src/js/store.js:
+  people accept this policy in the terms gate, whose points must say the same.
   A lawyer's review is still to come, especially: mood entries and notes as health-related data
   and the explicit consents for them (KVKK art. 6, GDPR art. 9), transfers abroad (KVKK art. 9
   as amended in 2024, GDPR chapter V), the legal bases in section 13, and ad consent for users
@@ -14,7 +15,7 @@ permalink: /privacy-policy
 
 # Privacy Policy
 
-**Effective date:** 2026-10-27
+**Effective date:** 2026-10-28
 
 InnerWeather ("the app") is provided by **Noronaru** ("we", "us"). Noronaru is the data controller for the personal data described in this policy. You can reach us at **noronaru@proton.me**.
 
@@ -24,7 +25,7 @@ InnerWeather ("the app") is provided by **Noronaru** ("we", "us"). Noronaru is t
 - **Cloud backup is optional.** If you sign in with Google and turn it on, your entries (without voice notes) are stored in your account on Google Cloud in the **European Union**.
 - **AI insights are optional.** When you request one, the mood scores, dates, and weather of that period — and your notes, your training from Hydrorep or your sleep from Dozelight only if you turned that on — are sent to **Anthropic**, the maker of Claude, in the United States (to **OpenAI** in the United States from app versions released before this policy). We do not keep them.
 - When you first open the app, it gets a **random identifier** from Google Firebase, so our server can recognize genuine requests and count AI insights. It is not linked to your name or email address unless you sign in with Google.
-- The app shows **rewarded ads** from Google AdMob, only when you choose to watch one: before a free AI insight, and — until Plus is on sale — to open Plus for 24 hours or before an AI report. In the European Economic Area, the UK, and Switzerland, Google's consent form asks how ads may use your data, and you can change your choice in Settings.
+- The app shows **rewarded ads** from Google AdMob, only when you choose to watch one: before a free AI insight. With Plus there are none. In the European Economic Area, the UK, and Switzerland, Google's consent form asks how ads may use your data, and you can change your choice in Settings.
 - InnerWeather is **not a medical service** and is not meant for emergencies.
 
 ## 1. Your journal on your phone
@@ -35,7 +36,7 @@ The app stores the following in its private storage on your phone:
 - Voice notes you record
 - Your settings and choices, such as theme, language, reminder time, and what you agreed to share
 - AI insights and reports you have received
-- Small records the app needs, such as when a Plus day ends
+- Small records the app needs, such as an AI insight you watched an ad for that has not reached you yet
 
 We have no access to this information unless you turn on one of the features below that sends it. If you export a backup, the file is saved to your phone and stays under your control.
 
@@ -78,7 +79,7 @@ InnerWeather reads your training and nights from your account when needed and do
 
 ## 6. AI insights and reports (optional)
 
-AI insights are available after you watch a rewarded ad (Plus members skip the ad), and only when you choose to request one. The monthly **Training & mood report** and a **season's report** come with Plus or — until Plus is on sale — after a rewarded ad.
+AI insights are available after you watch a rewarded ad (Plus members skip the ad), and only when you choose to request one. The monthly **Training & mood report** and a **season's report** come with Plus.
 
 **What is sent.** For a weekly or monthly insight: the mood scores, dates, and weather you logged in that period. Your **notes** are sent only if you turn on **Include notes in AI insights**. Your **training** — number of workouts, time, and difficulty per day, never volume or calories — is sent only if you are signed in with Google and turn on **Hydrorep training in AI insights**. Your **sleep** — for each day, the night before it: how long and how well you slept, bed and wake times, and the night's tags — is sent only if you are signed in with Google, Dozelight shares your nights, and you turn on **Dozelight sleep in AI insights**. All three are off by default and can be changed at any time in Settings, and our server discards them unless they are on. Voice notes are never sent.
 
@@ -88,7 +89,7 @@ For the monthly **Training & mood report**: the mood scores, dates, and weather 
 
 **Safety screening.** If your notes are included, they — and every generated insight — are checked for signs of self-harm by an Anthropic Claude model (by OpenAI's moderation service, from app versions released before this policy). If such signs are found, the app shows support resources instead of an insight. The result of this check is not stored.
 
-**Usage limits.** To prevent abuse and keep costs in check, our database (Google Cloud Firestore, United States) stores your identifier with the date of your last AI request, or report of an insight, and how many you made that day — deleted after 2 days — and how many reports you asked for each month or season, deleted after 60 days. These records contain no journal content.
+**Usage limits.** To prevent abuse and keep costs in check, our database (Google Cloud Firestore, United States) stores your identifier with the date of your last AI request, or report of an insight, how many you made that day, and a random identifier for each AI insight request, so one asked again after its answer was lost is not counted twice — deleted after 2 days — and how many reports you asked for each month or season, deleted after 60 days. These records contain no journal content.
 
 **Your choice.** You can use InnerWeather without AI insights.
 
@@ -102,7 +103,7 @@ If you report an insight as harmful or inappropriate, we store the insight's tex
 
 ## 8. Advertising
 
-The app shows **rewarded ads** through **Google AdMob**, only when you choose to watch one: before a free AI insight, and — until Plus is on sale — to open a Plus day or before an AI report. There are no banners and no ads between screens. AdMob may collect your device's advertising ID and app set ID, your IP address, information about your device and the app, and your interactions with ads, to show ads, measure them, prevent fraud, and — where allowed — personalize them. Ads are limited to content rated for teens.
+The app shows **rewarded ads** through **Google AdMob**, only when you choose to watch one: before a free AI insight. There are no banners and no ads between screens. AdMob may collect your device's advertising ID and app set ID, your IP address, information about your device and the app, and your interactions with ads, to show ads, measure them, prevent fraud, and — where allowed — personalize them. Ads are limited to content rated for teens.
 
 **Your choice.** In the European Economic Area, the UK, and Switzerland, Google's consent form asks how ads may use your data when you open the app, and no ads are loaded until it has your answer. You can change your choice at any time in **Settings → Help & legal → Ad privacy choices**. Your choice is stored on your phone. In any country, you can opt out of personalized ads or delete your advertising ID in your phone's settings.
 
@@ -110,9 +111,7 @@ Learn more in [How Google uses information from sites or apps that use its servi
 
 ## 9. Plus
 
-Plus is one subscription for InnerWeather, Hydrorep and Dozelight. When it is on sale, it is sold through **Google Play**, which handles payment; we never see your payment details. To check and restore Plus in all three apps, the apps and our server use **RevenueCat** (United States). RevenueCat receives your account's identifier when you are signed in with Google (otherwise a random identifier it creates), your purchases and subscription status from Google Play (such as product, price, and dates), and basic information about your device and the app, such as the Android version, app version, country, and IP address. Learn more in [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
-
-**A Plus day.** Until Plus is on sale, a rewarded ad opens everything Plus adds in InnerWeather for 24 hours on this phone (section 8). When it ends is kept on your phone.
+Plus is one subscription for InnerWeather, Hydrorep and Dozelight, sold through **Google Play**, which handles payment; we never see your payment details. To check and restore Plus in all three apps, the apps and our server use **RevenueCat** (United States). RevenueCat receives your account's identifier when you are signed in with Google (otherwise a random identifier it creates), your purchases and subscription status from Google Play (such as product, price, and dates), and basic information about your device and the app, such as the Android version, app version, country, and IP address. Learn more in [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
 
 ## 10. Reminders
 

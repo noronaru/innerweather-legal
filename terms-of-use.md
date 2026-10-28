@@ -4,8 +4,9 @@ permalink: /terms-of-use
 ---
 
 <!--
-  Approved by the owners for publishing on 2026-10-27, with TERMS_VERSION 2026-10-27 in
-  src/js/store.js — bump the version when a change here requires people to accept again. A
+  Approved by the owners for publishing on 2026-10-27, and updated on 2026-10-28 for Plus on
+  sale, with TERMS_VERSION 2026-10-28 in src/js/store.js — bump the version when a change here
+  requires people to accept again. A
   lawyer's review is still to come: consumer protection law in Türkiye and the EU limits which
   disclaimers and liability limits are enforceable. Keep sections 2 and 5 in step with
   Hydrorep's and Dozelight's terms.
@@ -13,7 +14,7 @@ permalink: /terms-of-use
 
 # Terms of Use
 
-**Effective date:** 2026-10-27
+**Effective date:** 2026-10-28
 
 These Terms of Use ("Terms") govern your use of the InnerWeather app ("the app"), provided by **Noronaru** ("we", "us"). You accept these Terms inside the app before using it. If you do not agree, please do not use the app.
 
@@ -45,7 +46,18 @@ The entries, notes, and voice notes you create belong to you. They are stored on
 
 ## 5. Ads and Plus
 
-InnerWeather is free and supported by ads. Watching a rewarded ad unlocks a free AI insight. Plus is one optional subscription for InnerWeather, Hydrorep and Dozelight. Until it is on sale, watching a rewarded ad opens everything Plus adds in InnerWeather for 24 hours on the phone where you watched it ("a Plus day"), and an ad comes before each AI report. Ads are provided by Google AdMob, and their availability is not guaranteed. We may change what Plus includes, and how it is opened, at any time.
+InnerWeather is free and supported by ads. Watching a rewarded ad unlocks a free AI insight. Ads are provided by Google AdMob, and their availability is not guaranteed.
+
+<!-- Lawyer review: Turkish distance-sales rules and EU consumer law on subscriptions, automatic
+     renewal, free trials, and the right of withdrawal. -->
+
+Plus is one optional subscription for InnerWeather, Hydrorep and Dozelight.
+
+- It is sold through Google Play and belongs to your Google account, so it is on in all three apps.
+- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal; Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
+- If a free trial is offered, it becomes a paid subscription unless you cancel before the trial ends.
+- Prices are shown in Google Play before you buy. Payment, refunds, and cancellation are handled by Google Play under its terms.
+- AI features in Plus keep their daily limits. We may change what Plus includes; we will tell you before any price change.
 
 ## 6. Acceptable use
 
@@ -75,18 +87,6 @@ Nothing in these Terms limits liability that cannot be limited under applicable 
 ## 10. Third-party services
 
 The app relies on services from Google (Firebase, Google Cloud, Google Sign-In, AdMob, and Google Play) and Anthropic (OpenAI, for app versions released before these terms), and for Plus on RevenueCat. Your use of those features is also subject to their terms and policies. Hydrorep, our workout tracker, and Dozelight, our sleep app, are separate apps with their own terms; sharing between our apps happens only when you turn it on.
-
-<!-- Add when Plus goes on sale (lawyer review: Turkish distance-sales rules and EU consumer law
-     on subscriptions, automatic renewal, free trials, and the right of withdrawal):
-
-## Plus
-
-- Plus is an optional subscription for InnerWeather, Hydrorep and Dozelight. It is sold through Google Play and belongs to your Google account.
-- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal; Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
-- If a free trial is offered, it becomes a paid subscription unless you cancel before the trial ends.
-- Payment, refunds, and cancellation are handled by Google Play under its terms.
-- AI features in Plus keep their daily limits. We may change what Plus includes; we will tell you before any price change.
--->
 
 ## 11. Ending your use
 
